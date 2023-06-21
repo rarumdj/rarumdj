@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ##### Languages/Tools/Stack
 
-[![David Johnson's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=rarumdj&show_icons=true&theme=nightowl&langs_count=15)](https://github.com/rarumdj)
+[![David Johnson's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=rarumdj&count_private=true&show_icons=true&theme=nightowl&langs_count=15)](https://github.com/rarumdj)
