@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ##### General Statistics
 
-[![David Johnson's Github Stats](https://github-readme-stats.vercel.app/api?username=rarumdj&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&include_all_pr=true)](https://github.com/rarumdj)
+[![David Johnson's Github Stats](https://github-readme-stats.vercel.app/api?username=rarumdj&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&include_all_prs=true&show=reviews)](https://github.com/rarumdj)
 
 
 ##### Languages/Tools/Stack
