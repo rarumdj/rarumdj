@@ -27,28 +27,4 @@ Here are some ideas to get you started:
 [![David Johnson's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=rarumdj&count_private=true&show_icons=true&theme=nightowl&langs_count=15)](https://github.com/rarumdj)
 
 
-<!-- Add the following code to your profile's README.md file -->
-
-<!-- Count Private Pull Requests -->
-<script>
-  fetch('https://api.github.com/users/rarumdj/events')
-    .then(response => response.json())
-    .then(data => {
-      const privatePullRequests = data.filter(event => {
-        return event.type === 'PullRequestEvent' && event.payload.pull_request.private;
-      });
-
-      const privatePRCount = privatePullRequests.length;
-
-      // Display the count in your README
-      document.getElementById('private-pr-count').innerText = privatePRCount.toString();
-    })
-    .catch(error => {
-      console.error('Error:', error);
-    });
-</script>
-
-<!-- Display the Count -->
-**Private Pull Requests:**
-<span id="private-pr-count">Loading...</span>
 
