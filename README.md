@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 ##### General Statistics
 
-[![David Johnson's Github Stats](https://github-readme-stats.vercel.app/api?username=rarumdj&&show_icons=true&theme=nightowl&include_all_commits=true)](https://github.com/rarumdj)
+[![David Johnson's Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rarumdj&&show_icons=true&theme=nightowl&include_all_commits=true)](https://github.com/rarumdj)
 
 
 ##### Languages/Tools/Stack
 
-[![David Johnson's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=rarumdj&count_private=true&show_icons=true&theme=nightowl&langs_count=10&layout=compact)](https://github.com/rarumdj)
+[![David Johnson's Github Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=rarumdj&count_private=true&show_icons=true&theme=nightowl&langs_count=10&layout=compact)](https://github.com/rarumdj)
 
 
 
